@@ -2,10 +2,15 @@
 
 ## OBJECTIVE 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting. 
+<br/>
+<br/>
+## Dynamic Sales Dashboard for Super Market
 ![image](https://github.com/ManeeshMondal/Sales-Dashboard/assets/93001043/3c7ea8b8-db47-4b90-9bf3-861abb7a32dc)
-Dynamic Sales Dashboard for Super Market
+<br/>
+<br/>
+## Sales Forecasting for next 15 days
 ![image](https://github.com/ManeeshMondal/Sales-Dashboard/assets/93001043/cd1ccea5-b1c3-4f42-ae1d-de9bcfefabca)
-Sales Forecasting for next 15 days
+
 ## DESCRIPTION 
 The objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
